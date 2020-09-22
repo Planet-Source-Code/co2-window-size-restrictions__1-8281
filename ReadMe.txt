@@ -1,0 +1,1 @@
+There is 2 subclassing dll: one for vb5 and one for vb6.  That's why there is 2 different projects.
